@@ -1,0 +1,4 @@
+1;Philips Android TV 50 inch;1250
+2;Sony digitalna kamera;450
+3;Samsung monitor 24 inch;450
+4;Laptop DELL inspiron 1500;2500
